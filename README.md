@@ -1,3 +1,3 @@
-# GPA Calculator
-This jupyter notebook is to calculate my own GPA
-I can try checking what my CGPA would be if I got certain grades
+# GPA Calculator - Personal Project
+This jupyter notebook is to analyze my own GPA grades from Concordia University 
+Efficient method of tracking my academic progress
